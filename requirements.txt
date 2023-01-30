@@ -1,0 +1,2 @@
+dtiplayground
+pyqt5==5.12
